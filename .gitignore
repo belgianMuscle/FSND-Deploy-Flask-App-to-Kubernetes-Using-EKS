@@ -4,7 +4,6 @@
 *.pyc
 *.pyo
 env/
-env*
 dist/
 build/
 *.egg
@@ -17,6 +16,7 @@ _mailinglist
 docs/_build/
 __pycache__
 _private
+*.code-workspace
 
 # Coverage reports
 htmlcov/
